@@ -1,9 +1,9 @@
 # Breif: 
 The 16 Queen is the problem of placing 16 chess queens on an 16×16 chessboard so that no two queens attack each other. 
 
-`Naive Algorithm:` Generate all possible configurations of queens on board and print a configuration that satisfies the given constraints.
+`Naive Algorithm:` Generates all possible configurations of queens on board and print a configuration that satisfies the given constraints.
 
-`Genetic Algorithm:` Generate different configurations of queens on board based on cross-over and mutation rate and print a configuration that statisfies the given constraints.
+`Genetic Algorithm:` Generates different configurations of queens on board based on cross-over and mutation rate and print a configuration that statisfies the given constraints.
 
 `Naive Algorithm vs Genetic Algorithm -` Naive algorithm searches through the entire search space whereas Genetic algorithm effectively searches through the search space based on the fitness of the solutions. 
 
