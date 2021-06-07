@@ -26,5 +26,5 @@ A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s
 4. Cross-over operation (PMX)
 5. Mutation operation (Activation of this operation depends on the mutation rate)
 6. Cross-over and mutation operation together generates the next generation solutions
-7. Check if any solution has fitness value 0, if false repeat from step 2
+7. Check if any solution has fitness value 0 (max fitness), if false repeat from step 2
 8. Prints the optimal solution
